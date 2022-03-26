@@ -1,1 +1,23 @@
-1
+A number of rules for resolving majority cycles in elections have been proposed in the literature.
+Recently, Holliday and Pacuit (2021a) axiomatically characterized one such cycle-resolving rule, dubbed
+Split Cycle: in each majority cycle, discard the majority preference with the smallest majority margin.
+They showed that any given rule satisfying five standard axioms, plus a weakening of Arrow’s Indepen-
+dence of Irrelevant Alternatives (IIA) called Coherent IIA, is refined by Split Cycle. That is, Split Cycle
+retains as many majority preferences as the given rule and possibly more. In this paper, we go further
+and show that Split Cycle is the only rule satisfying the axioms of Holliday and Pacuit together with
+two additional axioms: Coherent Defeat and Positive Involvement in Defeat. Coherent Defeat states
+that any majority preference not occurring in a cycle is retained, while Positive Involvement in Defeat is
+closely related to the well-known axiom of Positive Involvement (see, e.g., Pérez 2001). We characterize
+Split Cycle not only as a collective choice rule but also as a social choice correspondence, over both
+profiles of linear ballots and profiles of ballots allowing ties.
+
+On Mar 25, 2022, at 2:22 PM, Wesley Holliday <wesholliday@berkeley.edu> wrote:
+
+Hi Yifeng,
+
+Hope things are going well! Eric and I were thinking: should we try to submit the axiomatization and/or the strength of majority preference paper for the Social Choice and Welfare conference by March 28 (https://sscw2020.colmex.mx/index.php/submission/)? They say Zoom participation is okay. They also said the reviewing would be “light” (we’re thinking like ASL-style). Seems like a good opportunity to get some feedback from the social choice community.
+
+Eric and I will work on an abstract for the axiomatization paper now in case you think we can make the deadline :-)
+
+Best,
+Wes
